@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-github21&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-github21" /> </p>
-<img src="https://myreadme.vercel.app/api/embed/vishal-github21?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 - 🌱 I’m currently learning **ai/ml and cloud integration in web development**
@@ -12,6 +11,7 @@
 - 📫 How to reach me **vishalkr2291981121@gmail.com**
 
 - 📄 Resume [https://github.com/vishal-github21/portfolio/blob/main/src/assets/Resume-4.pdf](https://github.com/vishal-github21/portfolio/blob/main/src/assets/Resume-4.pdf)
+<img src="https://myreadme.vercel.app/api/embed/vishal-github21?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
