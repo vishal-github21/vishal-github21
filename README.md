@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-github21&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-github21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-github21" alt="vishal-github21" /></a> </p>
+
 
 - 🌱 I’m currently learning **ai/ml and cloud integration in web development**
 
